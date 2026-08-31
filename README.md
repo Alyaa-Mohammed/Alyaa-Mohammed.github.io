@@ -1,3 +1,5 @@
+# 📊 Alyaa Mohammed | Data Analytics Portfolio
+
 ## 🧸 Maven Fuzzy Factory – Business Analytics Project
 
 An end-to-end data analysis project for a US-based e-commerce plush toy company, from raw data to an interactive dashboard and strategic recommendations.
@@ -53,7 +55,7 @@ We worked with **6 interconnected tables** containing:
 | Metric | Value |
 |--------|-------|
 | **Total Revenue** | **$2.0M** |
-| **Total Profit** | **$1.0M** (62.7% margin) |
+| **Total Profit** | **$1.22M** (62.7% margin) |
 | **Conversion Rate** | **6.8%** |
 | **Total Sessions** | **473K** |
 | **Total Orders** | **32K** |
@@ -72,7 +74,7 @@ We worked with **6 interconnected tables** containing:
 **Marketing & Channel Performance:**
 - Top revenue channel: **gsearch (Google)** – $800K
 - Organic + Direct traffic generate **$273K with zero ad spend**
-- **Desktop Dominance**: Desktop drives 86% of orders, while mobile represents only 14% of traffic despite having higher AOV potential. Peak traffic occurs during **weekdays, 11 AM – 4 PM**, suggesting that desktop usage may be influenced by **workplace browsing behavior** rather than just user experience preference.
+- **Desktop Dominance**: Desktop drives 86% of orders, while mobile represents only 14% of traffic. Peak traffic occurs during **weekdays, 11 AM – 4 PM**, suggesting that desktop usage may be influenced by **workplace browsing behavior** rather than just user experience preference.
 
 **Customer Journey & Funnel:**
 - Biggest drop-off: **38% from Product Detail → Cart**
@@ -97,13 +99,13 @@ We worked with **6 interconnected tables** containing:
 
 ### 💡 Strategic Recommendations
 
-| Recommendation | Expected Impact |
-|----------------|-----------------|
-| **1. Fix the Funnel** – A/B test "Add to Cart" button design, color, and urgency messages | +10% conversion → $108K monthly revenue |
-| **2. Reallocate Marketing Budget** – Shift 20% of Mr. Fuzzy budget to Love Bear (higher margin) | +$70K profit without increasing budget |
-| **3. Launch Loyalty Program** – 10% discount on next order, early access to new products | +10% repeat customers → $372K annual revenue |
-| **4. SEO/Content Marketing** – Organic + Direct already bring $273K with zero ad spend | +$250K annual revenue |
-| **5. Improve Mobile Experience** – Mobile users have higher AOV but only 14% of traffic | Increased mobile conversions |
+| Recommendation | Insight from Dashboard |
+|----------------|------------------------|
+| **1. Fix the Funnel** – A/B test "Add to Cart" button to reduce **38% drop-off** from product detail to cart | 38% drop-off (Funnel Chart) |
+| **2. Reallocate Marketing Budget** – Shift budget to **Love Bear (40% margin)** vs Mr. Fuzzy (30%) | 40% vs 30% (Profit Margin) |
+| **3. Launch Loyalty Program** – **19% repeat customers** spend **15% more** – incentivize retention | 19% repeat, 15% more spend |
+| **4. SEO/Content Marketing** – Organic + Direct already bring **$273K with zero ad spend** – invest more | $273K from free channels |
+| **5. Improve Mobile Experience** – **Mobile = 14% of traffic** despite higher AOV – optimize checkout | 14% mobile traffic |
 
 ---
 
@@ -114,19 +116,6 @@ We worked with **6 interconnected tables** containing:
 3. **Launch Loyalty Program**: 19% repeat customers spend 15% more
 4. **SEO/Content Marketing**: Free channels bring $273K – invest more
 5. **Mobile Optimization**: Mobile AOV is higher but only 14% of traffic
-
----
-
-### 💰 ROI Forecast ($100K Investment)
-*Based on dashboard insights and projected impact of strategic recommendations*
-
-| Initiative | Investment | Annual Return | ROI |
-|------------|------------|---------------|-----|
-| Fix the Funnel | $20,000 | $1,260,000 | 63x |
-| Love Bear Reallocation | $30,000 | $70,000 | 2.3x |
-| SEO/Content Marketing | $25,000 | $250,000 | 10x |
-| Loyalty Program | $25,000 | $372,000 | 15x |
-| **TOTAL** | **$100,000** | **$1,952,000** | **~20x** |
 
 ---
 
