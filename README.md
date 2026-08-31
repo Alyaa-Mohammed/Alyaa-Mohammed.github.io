@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Alyaa Mohammed – Data Analyst
-
 ## 🧸 Maven Fuzzy Factory – Business Analytics Project
 
 An end-to-end data analysis project for a US-based e-commerce plush toy company, from raw data to an interactive dashboard and strategic recommendations.
