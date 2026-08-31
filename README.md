@@ -87,10 +87,22 @@ We worked with **6 interconnected tables** containing:
 | **1. Fix the Funnel** – A/B test "Add to Cart" button design, color, and urgency messages | +10% conversion → $108K monthly revenue |
 | **2. Reallocate Marketing Budget** – Shift 20% of Mr. Fuzzy budget to Love Bear (higher margin) | +$70K profit without increasing budget |
 | **3. Launch Loyalty Program** – 10% discount on next order, early access to new products | +10% repeat customers → $372K annual revenue |
+| **4. SEO/Content Marketing** – Organic + Direct already bring $273K with zero ad spend | +$250K annual revenue |
+| **5. Improve Mobile Experience** – Mobile users have higher AOV but only 14% of traffic | Increased mobile conversions |
 
 ---
 
+### 📋 Key Recommendations Summary
+
+1. **Fix the Funnel**: A/B test "Add to Cart" button – 38% drop-off from product detail to cart
+2. **Reallocate Marketing**: Shift budget to Love Bear (40% margin vs 30%)
+3. **Launch Loyalty Program**: 19% repeat customers spend 15% more
+4. **SEO/Content Marketing**: Free channels bring $273K – invest more
+5. **Mobile Optimization**: Mobile AOV is higher but only 14% of traffic
+---
+
 ### 💰 ROI Forecast ($100K Investment)
+*Based on dashboard insights and projected impact of strategic recommendations*
 
 | Initiative | Investment | Annual Return | ROI |
 |------------|------------|---------------|-----|
