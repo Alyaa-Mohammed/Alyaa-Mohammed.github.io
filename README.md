@@ -4,25 +4,25 @@ An end-to-end data analysis project for a US-based e-commerce plush toy company,
 
 ---
 
-### 📊 Dashboard (3 Pages + Filters)
+### 📊 Dashboard (3 Pages and Filters)
 
-![Filters & Slicers](Filter.jpg)  
+![Filters & Slicers](Filter.jpg)
 *Interactive filters and slicers used in the dashboard*
 
-![Page 1 - Executive Overview](Page1.jpg)  
+![Page 1 - Executive Overview](Page1.jpg)
 *Executive Overview – KPIs, revenue trends, channel performance, and product margins*
 
-![Page 2 - Traffic & Funnel Analysis](Page2.jpg)  
+![Page 2 - Traffic & Funnel Analysis](Page2.jpg)
 *Traffic sources, conversion funnel, bounce rate, and customer behavior patterns*
 
-![Page 3 - A/B Tests & Cross-sell](Page3.jpg)  
+![Page 3 - A/B Tests & Cross-sell](Page3.jpg)
 *Landing page & billing page A/B test results, cross-sell opportunities, and seasonality*
 
 ---
 
 ### 📁 Dataset Overview
 
-We worked with **6 interconnected tables**:
+We worked with **6 interconnected tables** containing:
 
 | Metric | Value |
 |--------|-------|
@@ -53,44 +53,43 @@ We worked with **6 interconnected tables**:
 | Metric | Value |
 |--------|-------|
 | **Total Revenue** | **$2.0M** |
-| **Total Profit** | **$1.22M** (62.7% margin) |
+| **Total Profit** | **$1.0M** (62.7% margin) |
 | **Conversion Rate** | **6.8%** |
 | **Total Sessions** | **473K** |
 | **Total Orders** | **32K** |
 | **Average Order Value** | **$59.99** |
 | **Bounce Rate** | **44.8%** |
-| **Refund Rate** | **4.3%** |
+| **Refund Rate** | **4.32%** |
 
 ---
 
 ### 🔍 Key Insights
 
-**Business Growth & Performance**
+**Business Growth & Performance:**
 - Scaled from 1 product (2012) to 4 products (2014) with consistent revenue growth
 - 19% of orders from repeat customers, who spend 15% more per order
 
-**Marketing & Channel Performance**
+**Marketing & Channel Performance:**
 - Top revenue channel: **gsearch (Google)** – $800K
 - Organic + Direct traffic generate **$273K with zero ad spend**
-- Desktop drives **86% of orders**; mobile only 14% despite higher AOV
-- Peak traffic: Weekdays, 11 AM – 4 PM (working hours behavior)
+- **Desktop Dominance**: Desktop drives 86% of orders, while mobile represents only 14% of traffic despite having higher AOV potential. Peak traffic occurs during **weekdays, 11 AM – 4 PM**, suggesting that desktop usage may be influenced by **workplace browsing behavior** rather than just user experience preference.
 
-**Customer Journey & Funnel**
+**Customer Journey & Funnel:**
 - Biggest drop-off: **38% from Product Detail → Cart**
 - Bounce Rate improved from **57.2% to 44.8%** after landing page optimization
-- Average session duration: ~4 min, with ~3 pages per session
+- Average session: **~3 pages per session**
 
-**A/B Testing Results**
+**A/B Testing Results:**
 - **Landing Page Test**: +6.56% uplift (3.81% → 4.06%)
 - **Billing Page Test**: +37.3% uplift (45.66% → 62.69%)
 
-**Product Performance**
+**Product Performance:**
 - Highest margin: **Love Bear (40%)** vs Mr. Fuzzy (30%)
 - Top cross-sell pair: **Mr. Fuzzy + Mini Bear** – 3,126 times, $64K extra profit
-- Love Bear shows seasonal demand spikes in **February & July**
-- Sugar Panda & Love Bear have higher refund rates (quality/expectation check needed)
+- **Seasonal Demand**: Love Bear shows demand spikes in **February & July** – potential opportunity for targeted campaigns
+- **Refund Rates**: Sugar Panda & Love Bear have higher refund rates – quality check needed
 
-**Data Quality Achievements**
+**Data Quality Achievements:**
 - Fixed 8 invalid orders, 15 missing product IDs, 10 timestamp errors
 - Standardized all text fields (lowercase, trimmed spaces)
 
@@ -100,26 +99,25 @@ We worked with **6 interconnected tables**:
 
 | Recommendation | Expected Impact |
 |----------------|-----------------|
-| **Fix the Funnel** – A/B test "Add to Cart" button | +10% conversion → $108K/month |
-| **Reallocate Budget** – Shift to Love Bear (higher margin) | +$70K profit |
-| **Launch Loyalty Program** – 10% discount, early access | +$372K/year |
-| **SEO/Content Marketing** – Invest in organic growth | +$250K/year |
-| **Improve Mobile Experience** – Optimize mobile conversion | Increased revenue |
+| **1. Fix the Funnel** – A/B test "Add to Cart" button design, color, and urgency messages | +10% conversion → $108K monthly revenue |
+| **2. Reallocate Marketing Budget** – Shift 20% of Mr. Fuzzy budget to Love Bear (higher margin) | +$70K profit without increasing budget |
+| **3. Launch Loyalty Program** – 10% discount on next order, early access to new products | +10% repeat customers → $372K annual revenue |
+| **4. SEO/Content Marketing** – Organic + Direct already bring $273K with zero ad spend | +$250K annual revenue |
+| **5. Improve Mobile Experience** – Mobile users have higher AOV but only 14% of traffic | Increased mobile conversions |
 
 ---
 
 ### 📋 Key Recommendations Summary
 
-1. Fix the Funnel – 38% drop-off from product detail to cart  
-2. Reallocate Marketing – Shift budget to Love Bear (40% vs 30% margin)  
-3. Launch Loyalty Program – 19% repeat customers spend 15% more  
-4. SEO/Content Marketing – Free channels bring $273K – invest more  
-5. Mobile Optimization – Mobile AOV higher but only 14% of traffic  
+1. **Fix the Funnel**: A/B test "Add to Cart" button – 38% drop-off from product detail to cart
+2. **Reallocate Marketing**: Shift budget to Love Bear (40% margin vs 30%)
+3. **Launch Loyalty Program**: 19% repeat customers spend 15% more
+4. **SEO/Content Marketing**: Free channels bring $273K – invest more
+5. **Mobile Optimization**: Mobile AOV is higher but only 14% of traffic
 
 ---
 
 ### 💰 ROI Forecast ($100K Investment)
-
 *Based on dashboard insights and projected impact of strategic recommendations*
 
 | Initiative | Investment | Annual Return | ROI |
@@ -134,25 +132,29 @@ We worked with **6 interconnected tables**:
 
 ### 🏆 Hackathon Achievement
 
-Developed for the **Digital Egypt Builders Initiative (DEBI) Business Analytics Hackathon** – **1st Place 🏆**
+This project was developed for the **Digital Egypt Builders Initiative (DEBI) Business Analytics Hackathon** and won **1st Place** 🏆
 
-**Team Avenger:**  
-Alyaa Mohammed, Donia Ayman Eid, Hesham Yahya, Hassan Tamer, Hassan Shawki
+**Team Avenger:**
+- Alyaa Mohammed
+- Donia Ayman Eid
+- Hesham Yahya
+- Hassan Tamer
+- Hassan Shawki
 
 ---
 
 ### 🔗 Links
 
-- **Live GitHub Page:** [https://Alyaa-Mohammed.github.io](https://Alyaa-Mohammed.github.io)  
-- **GitHub Repository:** [https://github.com/Alyaa-Mohammed/Alyaa-Mohammed.github.io](https://github.com/Alyaa-Mohammed/Alyaa-Mohammed.github.io)  
-- **LinkedIn Post:** [Click here](https://lnkd.in/e8Fye2pj)  
+- **Live GitHub Page:** [https://Alyaa-Mohammed.github.io](https://Alyaa-Mohammed.github.io)
+- **GitHub Repository:** [https://github.com/Alyaa-Mohammed/Alyaa-Mohammed.github.io](https://github.com/Alyaa-Mohammed/Alyaa-Mohammed.github.io)
+- **LinkedIn Post:** [Click here](https://lnkd.in/e8Fye2pj)
 - **Power BI Dashboard:** *Coming soon*
 
 ---
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyaa-mohammed/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyaa-mohammed/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alyaa-Mohammed)
 
 ---
