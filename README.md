@@ -6,16 +6,19 @@ An end-to-end data analysis project for a US-based e-commerce plush toy company,
 
 ---
 
-### 📊 Dashboard (3 Pages)
+### 📊 Dashboard (3 Pages and Filters)
 
-![Page 1 - Executive Overview](page1.jpg)
+![Page 1 - Executive Overview](Page1.jpg)
 *Executive Overview – KPIs, revenue trends, channel performance, and product margins*
 
-![Page 2 - Traffic & Funnel Analysis](page2.jpg)
+![Page 2 - Traffic & Funnel Analysis](Page2.jpg)
 *Traffic sources, conversion funnel, bounce rate, and customer behavior patterns*
 
-![Page 3 - A/B Tests & Cross-sell](page3.jpg)
+![Page 3 - A/B Tests & Cross-sell](Page3.jpg)
 *Landing page & billing page A/B test results, cross-sell opportunities, and seasonality*
+
+![Filters & Slicers](Filter.jpg)
+*Interactive filters and slicers used in the dashboard*
 
 ---
 
