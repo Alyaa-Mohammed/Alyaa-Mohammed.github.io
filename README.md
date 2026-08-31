@@ -135,7 +135,7 @@ This project was developed for the **Digital Egypt Builders Initiative (DEBI) Bu
 - **Live GitHub Page:** [https://Alyaa-Mohammed.github.io](https://Alyaa-Mohammed.github.io)
 - **GitHub Repository:** [https://github.com/Alyaa-Mohammed/Alyaa-Mohammed.github.io](https://github.com/Alyaa-Mohammed/Alyaa-Mohammed.github.io)
 - **LinkedIn Post:** [Click here](https://lnkd.in/e8Fye2pj)
-- **Power BI Dashboard:** *Coming soon*
+- **Power BI Dashboard:** *https://app.powerbi.com/groups/c6fb3849-22d6-4a8f-93b0-053a48c30b1a/reports/d08450ba-cde9-4120-b708-50bd1e23fef1/e48320e82b226af0604e?experience=power-bi*
 
 ---
 
