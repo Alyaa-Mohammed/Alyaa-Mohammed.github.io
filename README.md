@@ -75,8 +75,8 @@ We worked with **6 interconnected tables** containing:
 - **Desktop Dominance**: Desktop drives 86% of orders, while mobile represents only 14% of traffic. Peak traffic occurs during **weekdays, 11 AM – 4 PM**, suggesting that desktop usage may be influenced by **workplace browsing behavior** rather than just user experience preference.
 
 **Customer Journey & Funnel:**
-- Biggest drop-off: **38% from Product Detail → Cart**
-- Bounce Rate improved from **57.2% to 44.8%** after landing page optimization
+- Biggest drop-off: **54.8% from Product Detail → Cart**
+- Bounce Rate: **44.8%**
 - Average session: **~3 pages per session**
 
 **A/B Testing Results:**
@@ -99,7 +99,7 @@ We worked with **6 interconnected tables** containing:
 
 | Recommendation | Insight from Dashboard |
 |----------------|------------------------|
-| **1. Fix the Funnel** – A/B test "Add to Cart" button to reduce **38% drop-off** from product detail to cart | 38% drop-off (Funnel Chart) |
+| **1. Fix the Funnel** – A/B test "Add to Cart" button to reduce **54.8% drop-off** from product detail to cart | 54.8% drop-off (Funnel Chart) |
 | **2. Reallocate Marketing Budget** – Shift budget to **Love Bear (40% margin)** vs Mr. Fuzzy (30%) | 40% vs 30% (Profit Margin) |
 | **3. Launch Loyalty Program** – **19% repeat customers** spend **15% more** – incentivize retention | 19% repeat, 15% more spend |
 | **4. SEO/Content Marketing** – Organic + Direct already bring **$273K with zero ad spend** – invest more | $273K from free channels |
@@ -109,7 +109,7 @@ We worked with **6 interconnected tables** containing:
 
 ### 📋 Key Recommendations Summary
 
-1. **Fix the Funnel**: A/B test "Add to Cart" button – 38% drop-off from product detail to cart
+1. **Fix the Funnel**: A/B test "Add to Cart" button – 54.8% drop-off from product detail to cart
 2. **Reallocate Marketing**: Shift budget to Love Bear (40% margin vs 30%)
 3. **Launch Loyalty Program**: 19% repeat customers spend 15% more
 4. **SEO/Content Marketing**: Free channels bring $273K – invest more
